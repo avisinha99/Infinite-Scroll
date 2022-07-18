@@ -1,0 +1,6 @@
+ul {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    background-color: #f3f3f3;
+  }
